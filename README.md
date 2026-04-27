@@ -7,7 +7,7 @@ I design digital products from research and strategy to interface, experimentati
 ## What I do
 
 - Product design and UX/UI for digital products
-- Growth design, CRO and landing page optimization
+- Growth, Analytics and Research
 - Design systems, tokens and scalable interface foundations
 - Front-end implementation for validated experiences
 - AI-assisted workflows for faster product delivery
